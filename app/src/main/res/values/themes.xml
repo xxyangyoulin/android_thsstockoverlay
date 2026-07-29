@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ThsStockOverlay" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_red</item>
+        <item name="colorSecondary">#1565C0</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceContainer">#F2F3F5</item>
+        <item name="colorOnSurface">#1A1B1F</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:statusBarColor">@color/surface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

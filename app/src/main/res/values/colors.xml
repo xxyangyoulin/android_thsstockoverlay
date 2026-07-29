@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_red">#C62828</color>
+    <color name="brand_red_dark">#8E0000</color>
+    <color name="surface">#FAFAFA</color>
+</resources>

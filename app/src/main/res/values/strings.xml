@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">同花顺股票浮窗</string>
+    <string name="accessibility_service_name">同花顺股票识别</string>
+    <string name="accessibility_service_description">读取同花顺当前股票详情页，并在浮窗显示股票名称和代码。</string>
+</resources>
